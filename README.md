@@ -253,4 +253,4 @@ This repository serves as the official landing page for GIMP Portable. The softw
 **Get the most recent version of GIMP Portable today!**
 
 ---
-**Last updated:** 2026-10-16 17:12:13 UTC
+**Last updated:** 2026-10-16 20:38:29 UTC
